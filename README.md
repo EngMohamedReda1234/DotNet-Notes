@@ -1,12 +1,8 @@
-# 📚 DotNet Notes
-
-My personal knowledge base for .NET Backend Development 🚀
-
 ## 📂 Contents
 
-- [OOP](./OOP/oop.md)
-- [LINQ](./LINQ/linq.md)
-- [SOLID](./SOLID/solid.md)
-- [EF Core](./EF/ef.md)
-- [Caching](./CACHING/caching.md)
-- [Rate Limiting](./RATELIMITING/ratelimiting.md)
+- [OOP](./OOP/oop.md) | [PDF](./OOP/OOP.pdf)
+- [LINQ](./LINQ/linq.md) | [PDF](./LINQ/Linq.pdf)
+- [SOLID](./SOLID/solid.md) | [PDF](./SOLID/Solid.pdf)
+- [EF Core](./EF/ef.md) | [PDF](./EF/EF.pdf)
+- [Caching](./CACHING/caching.md) | [PDF](./CACHING/Caching.pdf)
+- [Rate Limiting](./RATELIMITING/ratelimiting.md) | [PDF](./RATELIMITING/Rate Limiting.pdf)
