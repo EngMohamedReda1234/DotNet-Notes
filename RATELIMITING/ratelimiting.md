@@ -1,4 +1,4 @@
-# Rate Limiting Notes
+# RateLimiting Notes
 
 📄 Full Notes (PDF):
-[Download Rate Limiting PDF](./Rate Limiting.pdf)
+[Download Rate Limiting PDF](./RateLimiting.pdf)
