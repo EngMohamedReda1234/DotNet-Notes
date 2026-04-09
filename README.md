@@ -5,4 +5,4 @@
 - [SOLID](./SOLID/solid.md) | [PDF](./SOLID/Solid.pdf)
 - [EF Core](./EF/ef.md) | [PDF](./EF/EF.pdf)
 - [Caching](./CACHING/caching.md) | [PDF](./CACHING/Caching.pdf)
-- [Rate Limiting](./RATELIMITING/ratelimiting.md) | [PDF](./RATELIMITING/Rate Limiting.pdf)
+- [Rate Limiting](./RATELIMITING/ratelimiting.md) | [PDF](./RATELIMITING/RateLimiting.pdf)
